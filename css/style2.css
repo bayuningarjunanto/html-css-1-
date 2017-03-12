@@ -1,0 +1,84 @@
+body{
+	font-family: sans-serif;
+	margin: 0px;
+	padding: 0px;
+}
+
+.header{
+	background: Silver;
+	color: #fff;
+	text-align: center;
+	overflow: hidden;
+}
+
+.logo,.judul{
+	margin:80px 0px;
+}
+
+.judul{
+	font-size: 40px;
+	font-style: bold;
+}
+
+.navigasi{
+	padding: 0px;	
+}
+
+ul, li{
+	font-size: 22px;
+	display: inline-block;
+	padding: 10px 20px 0px 20px;
+	margin: 0px;
+}
+
+li:hover{
+	background: #fff;
+	color: silver;
+	border-radius: 10px 10px 0px 0px;
+}
+
+.banner{
+	text-align: center;
+	padding-top: 80px;
+}
+
+.sambutan{
+	text-align: center;
+	color: aqua;
+	padding: 20px 120px;
+}
+
+.box{
+	padding: 20px 120px 20px 120px;
+	color: white;
+	text-align: center;
+	overflow: hidden;
+}
+
+.box3{
+	border: 5px solid grey;
+	width: 280px;
+	float: left;
+	margin: 10px;
+	padding: 26px;
+	text-align: center;
+	background: #E3f0f7;
+	border-radius: 0px 0px 20px 20px;
+}
+
+#judulbox{
+	font-size: 28px;
+	font-style: bold;
+	border-bottom: 2px solid grey;
+	margin-bottom: 20px;
+}
+
+.footer{
+	margin-top: 40px;
+	border-top: 20px solid grey;
+	background: silver;
+	color: #fff;
+	text-align: center;
+	padding: 80px 0px 60px 0px;
+	overflow: hidden;
+}

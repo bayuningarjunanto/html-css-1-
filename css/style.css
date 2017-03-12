@@ -1,0 +1,52 @@
+body{
+	background: url(../images/bg1.png) repeat-x, url(../images/bg2.png) ;
+}
+
+.wrap{
+	width: 80%;
+	margin: 0 auto;
+}
+
+.nav{
+	height; 60px;
+	background: url(../images/nav1.png) repeat-x;
+	border-bottom: 3px solid #FC3019;
+}
+
+ul li {
+	padding-top: 20px;
+	height: 40px;
+	color: #FFF;
+	font-size: 20px;
+	display: inline-block;
+}
+
+li{
+	padding: 0px 20px 0px 20px;
+	margin-right:50px;
+}
+
+li:hover{
+	background: #FC3019;
+}
+
+#slide{
+	width: 100%;
+}
+
+.content{
+	background: #FFF;
+	height: 600px;
+}
+
+.footer{
+	height: 100px;
+	background: url(../images/bg3.png) #FFF;
+}
+
+
+
+
+
+
+
